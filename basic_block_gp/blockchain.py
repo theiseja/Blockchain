@@ -29,7 +29,7 @@ class Blockchain(object):
         :param previous_hash: (Optional) <str> Hash of previous Block
         :return: <dict> New Block
         """
-        
+        pass
 
         block = {
             'index': len(self.chain) +1,
