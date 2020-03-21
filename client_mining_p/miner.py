@@ -13,6 +13,7 @@ def proof_of_work(block):
     in an effort to find a number that is a valid proof
     :return: A valid proof for the provided block
     """
+    #TBC
     pass
 
 
